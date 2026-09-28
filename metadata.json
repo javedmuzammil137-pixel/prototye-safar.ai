@@ -1,0 +1,6 @@
+{
+  "name": "Safar.ai — Karachi Budget Trip Planner",
+  "description": "A clickable front-end prototype for budget-based trip planning in Karachi, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
